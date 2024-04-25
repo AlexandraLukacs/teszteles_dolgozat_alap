@@ -10,8 +10,8 @@ function masodfokuEgyenletMegoldasa(a, b, c) {
     
     if(a === 0){
         const eredmeny = {
-            X1: ,
-            X2: ,
+            X1: 0,
+            X2: 0,
         };
         return "a nem lehet nulla";
     }else{
